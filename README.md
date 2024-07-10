@@ -1,6 +1,6 @@
 # MRJP - Latte compiler
 
-Latte compiller written in Haskell, translating to llvm machine language.
+The Latte compiler is implemented in Haskell and translates Latte language files into LLVM intermediate representation (IR). Latte is an imperative programming language, closely resembling a subset of the imperative features of Java. For a detailed definition of Latte, refer to the MRJP course page https://www.mimuw.edu.pl/~ben/Zajecia/Mrj2021/Latte/.
 
 ### Project structure:
 - `README.md` (this)
